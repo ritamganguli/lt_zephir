@@ -115,7 +115,7 @@ ChromeOptions browserOptions = new ChromeOptions();
 You can generate capabilities for your test requirements with the help of our inbuilt [Desired Capability Generator](https://www.lambdatest.com/capabilities-generator/?utm_source=github&utm_medium=repo&utm_campaign=junit-selenium-sample).
 
  
- ##Getting Started With Zephyr Scale
+ ## Getting Started With Zephyr Scale
 
 **Prerequisites:**
 
@@ -124,19 +124,18 @@ You can generate capabilities for your test requirements with the help of our in
 3. A Jira Project key.
 4. A Zephyr Scale Access token.
 
-[Image: Zephyr Scale Integration Setup]
 
 **Integrating LambdaTest with Zephyr Scale**
 
-1\. Clone the LambdaTest Zephyr Scale GitHub repository and navigate to the cloned directory:
+1. Clone the LambdaTest Zephyr Scale GitHub repository and navigate to the cloned directory:
 `   `git clone <https://github.com/LambdaTest/junit-selenium-zephyr-scale-sample>
 `   `cd junit-selenium-zephyr-scale-sample
-2\. In the PostTestResults.java script, add the following String parameters:
+2. In the PostTestResults.java script, add the following String parameters:
 `   `- File name of your test results.
 `   `- File path of the test result file.
 `   `- Jira Project key
 `   `- Zephyr Scale Access token 
-3\. In the test script, update test capabilities and add your LambdaTest Username and Access Key.
+3. In the test script, update test capabilities and add your LambdaTest Username and Access Key.
 
 **How to get Jira Project Key**
 
