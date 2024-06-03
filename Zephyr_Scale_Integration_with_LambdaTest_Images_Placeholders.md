@@ -119,10 +119,10 @@ You can generate capabilities for your test requirements with the help of our in
 
 **Prerequisites:**
 
-1\. Install Zephyr Scale - Test Management for Jira application from the Atlassian Marketplace.
-2\. A LambdaTest account.
-3\. A Jira Project key.
-4\. A Zephyr Scale Access token.
+1. Install Zephyr Scale - Test Management for Jira application from the Atlassian Marketplace.
+2. A LambdaTest account.
+3. A Jira Project key.
+4. A Zephyr Scale Access token.
 
 [Image: Zephyr Scale Integration Setup]
 
